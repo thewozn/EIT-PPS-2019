@@ -1,7 +1,7 @@
 # EIT-PPS-2019
 Evaluation de deux plateformes open source d’analyse linguistique: CEA LIST LIMA et Stanford Core NLP.
 
-## Lancer
+## Utilisation
 Le programme est prévu pour être lancé en ligne de commande.
 ### Lima
 Pour lancer une analyse Lima, la commande suivante doit être saisie à partir du dossier de script Lima:
@@ -10,9 +10,10 @@ Pour lancer une analyse Lima, la commande suivante doit être saisie à partir d
 * File Name correspondant au nom du fichier
 * Lima Path correspondant au chemin relatif vers les fichiers Lima générés précédemment
 * Script Output correspondant à la localisation des fichiers générés.
-#### Exemple:
-`python Lima_NLP_Core.py -p "../../Files/" -f "wsj_0010_sample.txt" -l '../../Files/Lima/' -o 'Generated/'`
 
+
+##### Exemple:
+`python Lima_NLP_Core.py -p "../../Files/" -f "wsj_0010_sample.txt" -l '../../Files/Lima/' -o 'Generated/'`
 Aura pour effet de lancer l'analyse du fichier ../../Files/wsj_0010_sample.txt à partir des fichier Lima contenus dans ../../Files/Lima/, et génèrera les fichiers .pos.lima, .pos.univ.lima ainsi que .ner.lima dans le dossier Generated/
 
 ### Dossiers
