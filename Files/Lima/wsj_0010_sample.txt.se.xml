@@ -1,0 +1,44 @@
+<specific_entities>
+<specific_entity>
+  <string>125</string>
+  <position>427</position>
+  <length>3</length>
+  <type>Numex.NUMBER</type>
+</specific_entity>
+<specific_entity>
+  <string>National Association of Manufacturers</string>
+  <position>187</position>
+  <length>37</length>
+  <type>Organization.ORGANIZATION</type>
+</specific_entity>
+<specific_entity>
+  <string>Rust</string>
+  <position>480</position>
+  <length>4</length>
+  <type>Organization.ORGANIZATION</type>
+</specific_entity>
+<specific_entity>
+  <string>resort</string>
+  <position>120</position>
+  <length>6</length>
+  <type>Location.LOCATION</type>
+</specific_entity>
+<specific_entity>
+  <string>Boca Raton</string>
+  <position>138</position>
+  <length>10</length>
+  <type>Location.LOCATION</type>
+</specific_entity>
+<specific_entity>
+  <string>Indianapolis</string>
+  <position>259</position>
+  <length>12</length>
+  <type>Location.LOCATION</type>
+</specific_entity>
+<specific_entity>
+  <string>Rust Belt</string>
+  <position>480</position>
+  <length>9</length>
+  <type>Location.LOCATION</type>
+</specific_entity>
+</specific_entities>
