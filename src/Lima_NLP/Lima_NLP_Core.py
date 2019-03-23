@@ -6,10 +6,10 @@ Partie relative à Lima du projet d'EIT d'ET5 INFO | POLYTECH PARIS-SUD 2019.
 
 -- First published on git/anthwozn
 
-Toute réutilisation du programme ci dessous requiert la mention de ses auteurs
+Toute réutilisation du programme ci dessous requiert la mention de l'auteur
 dans l'en-tête du fichier.
 
-@authors: BRINDAMOUR B., AZEMARD T. WOZNICA A.
+@author: WOZNICA A.
 """
 
 
