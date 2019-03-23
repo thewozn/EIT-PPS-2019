@@ -57,7 +57,5 @@ Le projet se compose de 3 dossiers, à savoir:
 
 -- Note that this code was tested on a Ubuntu 16.04 LTS distribution. -- 
 
-## Auteurs
+## Auteur
 * **Anthony WOZNICA**
-* **Benjamin BRINDAMOUR**
-* **Thomas AZEMARD**
